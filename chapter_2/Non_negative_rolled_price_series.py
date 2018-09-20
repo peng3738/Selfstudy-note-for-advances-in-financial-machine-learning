@@ -1,0 +1,8 @@
+# import our packages 
+import pandas as pd 
+raw=pd.read_csv(filePath,index_col=0,parse_dates=True)
+gaps=rollGaps(raw,dictio={'Instrument':'Symbol','Open':'Open','Close':'Close'})
+rolled=raw.copy(deep=True)
+for fld in ['Open','Close']:rolled[fld]-=gaps
+rolled['Returns']=rolled['Close'].diff()/raw['Close'].shift(1)
+rolled['rPrices']=(1+rolled['Returns']).cumprod()
