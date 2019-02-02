@@ -9,8 +9,8 @@ Study note for the book <Advances in Financial Machine Learning> by MarCos Lopez
   [Chapter 8: Feature Importance.] (chapter_8/)  
   [Chapter 9: Hyper-Parameter Tuning with Cross-Validation.](chapter_9/)  
   [Chapter 10: Bet Sizing.](chapter_10/)  
-  Chapter 11: The Dangers of Backtesting.
-  Chapter 12: Backtesting through Cross-Validation
+  Chapter 11: The Dangers of Backtesting.  
+  Chapter 12: Backtesting through Cross-Validation.  
   [Chapter 13: Backtesting on Synthetic Data.](chapter_13/)  
   [Chapter 14: Backtest Statistics.](chapter_14/)  
   [Chapter 15: Understanding Strategy Risk.](chapter_15/)  
