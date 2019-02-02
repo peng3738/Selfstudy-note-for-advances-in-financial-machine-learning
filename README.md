@@ -5,7 +5,7 @@ Study note for the book <Advances in Financial Machine Learning> by MarCos Lopez
   [Chapter 4: Sample Weights.](chapter_4/)  
   [Chapter 5: Fractionally Differentiated Features.](chapter_5/)  
   [Chapter 6: Ensemble Methods.](chapter_6/)  
-  Chapter 7: Cross-Validation in Finance. 
+  Chapter 7: Cross-Validation in Finance.   
   [Chapter 8: Feature Importance.] (chapter_8/)  
   [Chapter 9: Hyper-Parameter Tuning with Cross-Validation.](chapter_9/)  
   
